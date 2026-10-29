@@ -5061,6 +5061,22 @@
     }
   },
   {
+    "name": "app-console-mcp",
+    "url": "https://github.com/Alekla0126/app-console-mcp",
+    "description": "Manage Google Play Console, App Store Connect and AdMob through their official APIs: listings, reviews, releases, rollouts, vitals and ad reports, with every change a dry run by default.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "Python",
+    "provider": "Community",
+    "tags": [
+      "google-play",
+      "app-store-connect",
+      "admob",
+      "mobile",
+      "local-stdio"
+    ],
+    "official": false
+  },
+  {
     "name": "MCP Server Templates",
     "url": "https://github.com/Data-Everything/mcp-server-templates",
     "description": "Unified MCP platform connecting many apps behind one interface.",
